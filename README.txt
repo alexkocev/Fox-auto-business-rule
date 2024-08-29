@@ -33,12 +33,10 @@ To start working with the Jupyter Notebooks:
 
 1. Activate your Python environment.
 2. Launch Jupyter Notebook:
-
 `jupyter notebook`
 
-
 3. Open the notebook files (`*.ipynb`) in the repository.
-4. 
+
 
 ## Data
 
@@ -48,6 +46,3 @@ The project uses the following datasets:
 - `data/regex_model_cosmetics_full.csv` - Regex patterns for categorization.
 - `data/training_dataset_cosmetics.csv` - Dataset for training and validation.
 
-## Contributing
-
-Contributions are welcome. Please open an issue first to discuss what you would like to change or add.
